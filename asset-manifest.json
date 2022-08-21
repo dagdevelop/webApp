@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/webApp/static/css/main.b16c350e.css",
-    "main.js": "/webApp/static/js/main.b3f6b4ef.js",
+    "main.css": "/webApp/static/css/main.4b62fb41.css",
+    "main.js": "/webApp/static/js/main.de61c975.js",
     "static/js/787.d6cb1aba.chunk.js": "/webApp/static/js/787.d6cb1aba.chunk.js",
+    "static/media/MPLUSRounded1c-Regular.ttf": "/webApp/static/media/MPLUSRounded1c-Regular.a6e3080ac0a8e6ca12b4.ttf",
+    "static/media/MPLUSRounded1c-Thin.ttf": "/webApp/static/media/MPLUSRounded1c-Thin.96bcbe5cbdb54ec3378e.ttf",
+    "static/media/Kanit-ExtraBold.ttf": "/webApp/static/media/Kanit-ExtraBold.c4e2a525f567e676a819.ttf",
     "index.html": "/webApp/index.html",
-    "main.b16c350e.css.map": "/webApp/static/css/main.b16c350e.css.map",
-    "main.b3f6b4ef.js.map": "/webApp/static/js/main.b3f6b4ef.js.map",
+    "main.4b62fb41.css.map": "/webApp/static/css/main.4b62fb41.css.map",
+    "main.de61c975.js.map": "/webApp/static/js/main.de61c975.js.map",
     "787.d6cb1aba.chunk.js.map": "/webApp/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b16c350e.css",
-    "static/js/main.b3f6b4ef.js"
+    "static/css/main.4b62fb41.css",
+    "static/js/main.de61c975.js"
   ]
 }
